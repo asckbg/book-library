@@ -1,0 +1,13 @@
+== Book Library
+
+=== Idee
+
+=== genutzte Technologien
+
+* Spring Boot
+* Thymeleaf
+* JUnit 5
+* Asciidoc
+* Liquibase
+* Selenium
+
